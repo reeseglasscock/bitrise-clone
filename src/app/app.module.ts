@@ -13,6 +13,6 @@ import { NavbarComponent } from './navbar/navbar.component';
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent, NavbarComponent]
 })
 export class AppModule { }
