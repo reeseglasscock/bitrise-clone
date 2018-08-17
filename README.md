@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
 
-This application is a clone of https://www.bitrise.io/ using Angular 6 to clone out the features of the application and user interface.
+This application is a clone of https://www.bitrise.io/ using Angular 6 to clone out the features of the application and user interface. I am focusing on mainly the features within the application that work with the user to display different kinds of information as well as the routing between the different pages.
 
 ### Installing
 
