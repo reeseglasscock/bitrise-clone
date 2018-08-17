@@ -21,3 +21,19 @@ Pricing
 -Button slider that alternates between two pricing schemes of annual and monthly
 -customize plan with slider that increases price
 -Sign up link
+-Elite and Standard plan
+-concurrency
+-developer plan for half
+-FAQ questions that open on each question (only one open at a time)
+
+Features (has child pages within Features 'features/LINK)
+  Workflow Editor
+  iOS Features
+  Android Features
+  Cross Platform Features
+  Bitrise Deployment
+  CLI
+
+Additional Features:
+  Login to Page with authentication
+  
