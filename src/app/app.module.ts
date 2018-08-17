@@ -15,6 +15,6 @@ import { HeroMainComponent } from './hero-main/hero-main.component';
     BrowserModule
   ],
   providers: [],
-  bootstrap: [AppComponent, NavbarComponent]
+  bootstrap: [AppComponent, NavbarComponent, HeroMainComponent]
 })
 export class AppModule { }
