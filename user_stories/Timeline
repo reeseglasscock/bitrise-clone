@@ -1,6 +1,6 @@
 User Stories
 
-Application is to sell an app service for applicaitons to a user.
+Application is to sell an app service for applications to a user.
 Main page is an add page that focuses on what can be built as well as the 
 companies that are already using the application. 
 
@@ -9,7 +9,7 @@ Main page
 Needs a navbar at the top of the page that does provide routing - sticky
 Content on the main page is broken up into sections
 -Splash page - changing text in main header
--Build apps for any platforrm
+-Build apps for any platform
 -Feature Breakdown
 -Integrations
 -Free plan
