@@ -1,1 +1,23 @@
 User Stories
+
+Application is to sell an app service for applicaitons to a user.
+Main page is an add page that focuses on what can be built as well as the 
+companies that are already using the application. 
+
+Main page
+
+Needs a navbar at the top of the page that does provide routing
+Content on the main page is broken up into sections
+-Splash page
+-Build apps for any platforrm
+-Feature Breakdown
+-Integrations
+-Free plan
+-Slider of audience
+-Footer with tables of links
+
+Pricing
+-3 different columns
+-Button slider that alternates between two pricing schemes of annual and monthly
+-customize plan with slider that increases price
+-Sign up link
