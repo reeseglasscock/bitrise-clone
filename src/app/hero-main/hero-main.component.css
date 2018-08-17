@@ -1,0 +1,7 @@
+.heroMain {
+  box-sizing: content-box;
+  margin: auto;
+  text-align: center;
+  color: white;
+  background: linear-gradient(135deg,#990fc3 0,#760fc3 16%,#652ec3 52%,#652ec3 52%,#0dd3c5 100%,#7db9e8 100%);
+}
