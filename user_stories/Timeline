@@ -6,9 +6,9 @@ companies that are already using the application.
 
 Main page
 
-Needs a navbar at the top of the page that does provide routing
+Needs a navbar at the top of the page that does provide routing - sticky
 Content on the main page is broken up into sections
--Splash page
+-Splash page - changing text in main header
 -Build apps for any platforrm
 -Feature Breakdown
 -Integrations
@@ -36,4 +36,4 @@ Features (has child pages within Features 'features/LINK)
 
 Additional Features:
   Login to Page with authentication
-  
+  Mobile Friendly reorganizing content
